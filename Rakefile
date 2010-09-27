@@ -4,7 +4,8 @@ files = [
   'syntax/cucumber.vim', 
   'ftplugin/cucumber.vim', 
   'ftdetect/cucumber.vim', 
-  'indent/cucumber.vim', 
+  'indent/cucumber.vim',
+  'snippets/cucumber.snippets',
 ]
 
 
